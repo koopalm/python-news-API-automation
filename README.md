@@ -15,3 +15,4 @@ Pick your interests and get news from those categories with news API
 - sports
 - technology
 
+![image](https://github.com/koopalm/python-news-API-automation/assets/116551811/4bdaca5f-1222-4780-99d7-cd6b17ab757a)
