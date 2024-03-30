@@ -10,7 +10,8 @@ Pick your interests and get news from those categories with news API
 ### Possible categories are: 
 - business
 - entertainment 
-- generalhealth
+- general
+- health
 - science
 - sports
 - technology
