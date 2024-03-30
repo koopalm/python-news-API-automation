@@ -16,3 +16,6 @@ Pick your interests and get news from those categories with news API
 - technology
 
 ![image](https://github.com/koopalm/python-news-API-automation/assets/116551811/4bdaca5f-1222-4780-99d7-cd6b17ab757a)
+
+![image](https://github.com/koopalm/python-news-API-automation/assets/116551811/540ee1e4-c858-4a8a-a2b0-6b140c199dc5)
+
